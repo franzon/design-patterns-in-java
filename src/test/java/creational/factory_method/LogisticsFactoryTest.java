@@ -13,7 +13,7 @@ class LogisticsFactoryTest {
         Transport ship = seaLogistics.createTransport();
 
         assertTrue(ship instanceof Ship);
-        assertEquals("Ship", ship.getDescription());
+        assertEquals("Ship", seaLogistics.doOperation());
     }
 
     @Test
@@ -22,6 +22,6 @@ class LogisticsFactoryTest {
         Transport truck = roadLogistics.createTransport();
 
         assertTrue(truck instanceof Truck);
-        assertEquals("Truck", truck.getDescription());
+        assertEquals("Truck", roadLogistics.doOperation());
     }
 }

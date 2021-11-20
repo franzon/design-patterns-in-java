@@ -1,6 +1,6 @@
 package creational.factory_method;
 
-class RoadLogistics implements Logistics {
+class RoadLogistics extends Logistics {
 
     @Override
     public Transport createTransport() {

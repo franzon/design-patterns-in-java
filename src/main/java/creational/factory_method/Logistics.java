@@ -1,6 +1,12 @@
 package creational.factory_method;
 
-interface Logistics {
+abstract class Logistics {
 
-    Transport createTransport();
+    String doOperation() {
+        Transport transport = createTransport();
+
+        return transport.getDescription();
+    }
+
+    abstract Transport createTransport();
 }
