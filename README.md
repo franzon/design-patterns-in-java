@@ -5,7 +5,7 @@
 - [x] Factory
 - [x] Factory method
 - [x] Abstract factory
-- [ ] Builder
+- [x] Builder
 - [ ] Prototype
 - [ ] Singleton
 
