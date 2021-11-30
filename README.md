@@ -9,10 +9,25 @@
 - [x] Prototype
 - [x] Singleton
 
-### Strutuctural
+### Structural
 
-- TODO
+- [x] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Proxy
 
 ### Behavioral
 
-- TODO
+- [ ] Chain of Responsability
+- [ ] Command
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Visitor
