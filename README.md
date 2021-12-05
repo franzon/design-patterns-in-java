@@ -14,7 +14,7 @@
 - [x] Adapter
 - [x] Bridge
 - [x] Composite
-- [ ] Decorator
+- [x] Decorator
 - [ ] Facade
 - [ ] Flyweight
 - [ ] Proxy
