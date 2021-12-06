@@ -15,7 +15,7 @@
 - [x] Bridge
 - [x] Composite
 - [x] Decorator
-- [ ] Facade
+- [x] Facade
 - [ ] Flyweight
 - [ ] Proxy
 
