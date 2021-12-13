@@ -21,7 +21,7 @@
 
 ### Behavioral
 
-- [ ] Chain of Responsability
+- [x] Chain of Responsability
 - [ ] Command
 - [ ] Iterator
 - [ ] Mediator
