@@ -22,7 +22,7 @@
 ### Behavioral
 
 - [x] Chain of Responsability
-- [ ] Command
+- [x] Command
 - [ ] Iterator
 - [ ] Mediator
 - [ ] Memento
