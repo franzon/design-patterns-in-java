@@ -23,7 +23,7 @@
 
 - [x] Chain of Responsability
 - [x] Command
-- [ ] Iterator
+- [x] Iterator
 - [ ] Mediator
 - [ ] Memento
 - [ ] Observer
